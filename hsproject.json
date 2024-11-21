@@ -1,5 +1,5 @@
 {
   "name": "my_project",
-  "srcDir": "src",
+  "srcDir": "/",
   "platformVersion": "2023.2"  
 }
